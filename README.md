@@ -1,0 +1,2 @@
+# CloudDreamer
+Word clouds, also known as "tag clouds," provide an interesting view of the words used in a document. The key feature of a word cloud is that words are displayed in a size proportional to the number of times they are used in the text on which the cloud is based. Very common words, also known as stopwords, are typically not included in the cloud. Otherwise, all English word clouds would be dominated by "the", "and", "a", "in", etc. In the project, a search tree is implemented to generate such clouds.
